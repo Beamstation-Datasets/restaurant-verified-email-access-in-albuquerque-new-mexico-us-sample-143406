@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e101302f-5ce8-4074-b88e-6e91a7cf9d6a",
+  "id_short": 143406,
+  "published_at": "2026-04-10T19:15:18Z",
+  "repo_name": "restaurant-verified-email-access-in-albuquerque-new-mexico-us-sample-143406",
+  "sample_asset_name": "beamstation_143406_restaurants-us-nm_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/143406/beamstation_143406_restaurants-us-nm_SAMPLE_DIST.csv",
+  "sample_records": 35,
+  "sample_sha256": "1b202d2eef073eef8f6abedd412c8fa9c770c6e71151facbd2720383c422c852",
+  "sample_size_bytes": 156737,
+  "total_records": 358
+}
