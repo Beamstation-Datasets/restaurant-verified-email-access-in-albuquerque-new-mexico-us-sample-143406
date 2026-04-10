@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Albuquerque, New Mexico, US",
+  "export_job_id": "e101302f-5ce8-4074-b88e-6e91a7cf9d6a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 143406,
+  "location_name": "Albuquerque",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-albuquerque-new-mexico-us-sample-143406",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/143406/beamstation_143406_restaurants-us-nm_SAMPLE_DIST.csv",
+  "sample_pct": 9.78,
+  "sample_records": 35,
+  "sample_sha256": "1b202d2eef073eef8f6abedd412c8fa9c770c6e71151facbd2720383c422c852",
+  "sample_size_bytes": 156737,
+  "total_records": 358,
+  "updated_at": "2026-04-07T23:09:10.657334+00:00"
+}
